@@ -1,0 +1,19 @@
+@font-face {
+    src: url(../fonts/Montserrat-Regular.ttf);
+    font-family: 'R400';
+}
+
+@font-face {
+    src: url(../fonts/Montserrat-Black.ttf);
+    font-family: 'R900';
+}
+
+@font-face {
+    src: url(../fonts/Montserrat-BoldItalic.ttf);
+    font-family: 'RI700';
+}
+
+@font-face {
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+    font-family: 'RS700';
+}
